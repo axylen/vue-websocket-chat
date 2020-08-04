@@ -60,5 +60,8 @@ export default {
   ** See https://nuxtjs.org/api/configuration-build/
   */
   build: {
+  },
+  server: {
+    host: '0.0.0.0'
   }
 }

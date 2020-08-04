@@ -113,5 +113,9 @@ export default {
     width: 45px;
     height: 45px;
   }
+  .send-icon {
+    width: 26px;
+    height: 26px;
+  }
 }
 </style>
